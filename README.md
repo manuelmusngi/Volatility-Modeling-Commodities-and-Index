@@ -55,3 +55,6 @@ volatility_model_app/\
 
 #### Reference
 - [Volatility Modelling in Crude Oil and Natural Gas Prices](https://www.sciencedirect.com/science/article/pii/S2212567116302192)
+
+#### License
+This project is licensed under the [MIT License](https://github.com/manuelmusngi/regime_switching_models/edit/main/LICENSE).  
