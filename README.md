@@ -46,9 +46,8 @@ volatility_model_app/\
 │   └── logger.py                      
 │   └── plotter.py                     
 ├── reports/\
-│   └── results.csv 
-|\
-└── [requirements.txt](https://github.com/manuelmusngi/Volatility-Modeling-Index-and-Commodities/blob/main/requirements.txt)
+│   └── results.csv
+|   └── [requirements.txt](https://github.com/manuelmusngi/Volatility-Modeling-Index-and-Commodities/blob/main/requirements.txt)
 
 #### Dependencies
 - [requirements.txt](https://github.com/manuelmusngi/Volatility-Modeling-Index-and-Commodities/blob/main/requirements.txt)
