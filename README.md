@@ -4,7 +4,7 @@ This application aims to model and forecast the volatility of key energy and equ
 
 The core functionality of this application includes:
 
-- Forecasting conditional volatility:
+- Forecasting conditional volatility:\
   Utilizing models such as EGARCH and FIGARCH, the application provides rolling out-of-sample forecasts of volatility, adapting to market shifts and clustering effects that standard models may overlook. 
 
 - Modeling asymmetry and long memory: As demonstrated in the paper, natural gas and crude oil exhibit volatility asymmetry (leverage effects) and long memory. The application captures these features using asymmetric and fractionally integrated models like GJRGARCH and FIAPARCH. 
