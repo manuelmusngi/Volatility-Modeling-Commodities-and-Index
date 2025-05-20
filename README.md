@@ -28,16 +28,25 @@ For practical implications, I have selected the following models, since investor
 
 - FIGARCH (fractionally integrated)
 
-
-#### Performance Metrics for Evaluation
-
-- Mean Squared Error (MSE)
-
-- Mean Absolute Error (MAE)
-
 #### Program Structure
 
-
+volatility_model_app/\
+│
+├── main.py\                            
+├── config/\
+│   └── settings.py                    
+├── data/\
+│   └── loader.py                      
+├── models/\
+│   └── model_factory.py               
+│   └── forecasting.py                 
+├── evaluation/\
+│   └── metrics.py                     
+├── utils/\
+│   └── logger.py                      
+│   └── plotter.py                     
+├── reports/\
+│   └── results.csv                    
 
 #### Dependencies
 -
