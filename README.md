@@ -46,10 +46,11 @@ volatility_model_app/\
 │   └── logger.py                      
 │   └── plotter.py                     
 ├── reports/\
-│   └── results.csv                    
+│   └── results.csv 
+└── [requirements.txt](https://github.com/manuelmusngi/Volatility-Modeling-Index-and-Commodities/blob/main/requirements.txt)
 
 #### Dependencies
--
+- [requirements.txt](https://github.com/manuelmusngi/Volatility-Modeling-Index-and-Commodities/blob/main/requirements.txt)
 
 #### Reference
 - [Volatility Modelling in Crude Oil and Natural Gas Prices](https://www.sciencedirect.com/science/article/pii/S2212567116302192)
