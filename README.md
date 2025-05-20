@@ -32,7 +32,7 @@ For practical implications, I have selected the following models, since investor
 
 volatility_model_app/\
 │
-├── main.py\                            
+├── main.py                            
 ├── config/\
 │   └── settings.py                    
 ├── data/\
