@@ -1,0 +1,11 @@
+ASSETS = {
+    'WTI Crude Oil': 'CL=F',
+    'Natural Gas': 'NG=F',
+    'S&P 500': '^SPX'
+}
+
+START_DATE = '2010-01-01'
+END_DATE = '2024-01-01'
+
+VOLATILITY_MODELS = ['GARCH', 'EGARCH', 'FIGARCH']
+FORECAST_HORIZON = 5
