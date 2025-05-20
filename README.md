@@ -7,9 +7,6 @@ The core functionality of this application includes:
 - Forecasting conditional volatility:\
   Utilizing models such as EGARCH and FIGARCH, the application provides rolling out-of-sample forecasts of volatility, adapting to market shifts and clustering effects that standard models may overlook. 
 
-- Modeling asymmetry and long memory:\
-  As demonstrated in the paper, natural gas and crude oil exhibit volatility asymmetry (leverage effects) and long memory. The application captures these features using asymmetric and fractionally integrated models like GJRGARCH and FIAPARCH. 
-
 - Evaluating model performance:\
   The forecasting models are quantitatively assessed using Mean Squared Error (MSE) and Mean Absolute Error (MAE), in line with the paper’s methodology for determining the most accurate model under various market conditions. 
 
