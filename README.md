@@ -21,7 +21,30 @@ The core functionality of this application includes:
 
 In essence, this application translates the empirical modeling approach of the original research into a computational tool that allows users to explore, visualize, and evaluate volatility patterns in major financial markets using GARCH-family models. By combining robust econometric modeling with real-time financial data, it supports both academic exploration and real-world financial decision-making.
 
+#### Models Applied
+Six volatility models were applied to both commodities:
+
+- GARCH
+
+- IGARCH
+
+- GJRGARCH (asymmetric)
+
+- EGARCH (exponential, asymmetric)
+
+- FIGARCH (fractionally integrated)
+
+- FIAPARCH (fractionally integrated asymmetric power GARCH
+
+#### Performance Metrics for Evaluation
+
+- Mean Squared Error (MSE)
+
+- Mean Absolute Error (MAE)
+
 #### Program Structure
+
+
 
 #### Dependencies
 -
