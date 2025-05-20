@@ -14,3 +14,6 @@ Comparing behavior across asset classes: By running the same GARCH variants on d
 Supporting hedging and risk management: Forecasted volatilities can be used to derive optimal hedge ratios, assisting traders, policymakers, and risk managers in making informed decisions—mirroring the practical insights provided in the original study. 
 
 In essence, this application translates the empirical modeling approach of the original research into a computational tool that allows users to explore, visualize, and evaluate volatility patterns in major financial markets using GARCH-family models. By combining robust econometric modeling with real-time financial data, it supports both academic exploration and real-world financial decision-making.
+
+#### Reference
+- [Volatility Modelling in Crude Oil and Natural Gas Prices](https://www.sciencedirect.com/science/article/pii/S2212567116302192)
