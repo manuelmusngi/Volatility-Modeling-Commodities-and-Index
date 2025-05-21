@@ -1,6 +1,6 @@
 #### Volatility-Modeling-Commodities-and-Index
 
-This project is a replication of the volatility models used in a research paper that aimed to model and forecast the volatility of key energy and equity index markets using advanced GARCH-family models. Leveraging the research paper’s methodology, the development implements a suite of volatility models including EGARCH, FIGARCH, and others to capture the dynamic and nonlinear behavior of financial returns in markets like crude oil (WTI), natural gas (Henry Hub), and the S&P 500 Index. 
+This project is a replication of the volatility models used in a research paper that aimed to model and forecast the volatility of key energy and equity index markets using advanced GARCH-family models. Leveraging the research paper’s methodology, this development implements a suite of volatility models including EGARCH, FIGARCH, and others to capture the dynamic and nonlinear behavior of financial returns in markets like crude oil (WTI), natural gas (Henry Hub), and the S&P 500 Index. 
 
 The core functionality of this application includes:
 
