@@ -28,7 +28,7 @@ For practical implications, I have selected the following models, since investor
 
 - FIGARCH (fractionally integrated)
 
-#### Program Structure
+#### Project architecture
 
 volatility_model_app/\
 │
