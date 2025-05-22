@@ -18,7 +18,7 @@ The core functionality of this application includes:
 
 In essence, this application translates the empirical modeling approach of the original research into a computational tool that allows users to explore, visualize, and evaluate volatility patterns in major financial markets using GARCH-family models. By combining robust econometric modeling with real-time financial data, it supports both academic exploration and real-world financial decision-making.
 
-#### Models Applied
+#### Models applied
 
 For practical implications, I have selected the following models, since investors and fund managers can use EGARCH or FIGARCH models to develop risk-minimizing hedge strategies in energy markets or index.
  
