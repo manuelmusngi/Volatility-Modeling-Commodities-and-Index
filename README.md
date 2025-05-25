@@ -20,7 +20,7 @@ In essence, this translates the empirical modeling approach of the original rese
 
 #### Models applied
 
-For practical implications, I have selected the following models, since investors and fund managers can use EGARCH or FIGARCH models to develop risk-minimizing hedge strategies in energy markets or index.
+For practical implications, I have selected the following models, since investors and fund managers can use EGARCH or FIGARCH models to develop risk-minimizing hedge strategies in the energy markets or index.
  
 - GARCH (baseline)
 
